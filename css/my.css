@@ -1,1 +1,9 @@
+@font-face{
+    font-family: 'LXGWWenKaiScreen.ttf';
+    src: url('D:\00hexo\source\font\LXGWWenKaiScreen.ttf');
+}
+
+body{
+    font-family: 'LXGWWenKaiScreen.ttf';
+}
 /* Here is your custom css styles. */
