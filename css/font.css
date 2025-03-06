@@ -1,1 +1,13 @@
-@font-face{font-family:'Times New Roman';font-display:swap;src:url('../font/Times New Roman.ttf') format("truetype")}@font-face{font-family:'LXGW WenKai Screen';font-display:swap;src:url(../font/LXGWWenKaiScreen.ttf) format("truetype")}body{font-family:'Times New Roman','LXGW WenKai Screen'}
+@font-face{
+    font-family: 'Times New Roman';
+    font-display: swap;
+    src: url('../font/Times New Roman.ttf') format("truetype");
+}
+@font-face{
+    font-family: 'LXGW WenKai Screen';
+    font-display: swap;
+    src: url('../font/LXGWWenKaiScreen.ttf') format("truetype");
+}
+body {
+    font-family: 'Times New Roman','LXGW WenKai Screen';
+}
