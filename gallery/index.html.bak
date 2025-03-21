@@ -1,9 +1,0 @@
----
-title: 相册
-top_img: /img/custom_cover.jpg  # 你的自定义图片路径
----
-<div class="gallery-group-main">
-{% galleryGroup '球员图|俱乐部比赛' '包括各联赛对应的杯赛' '/gallery/club' https://y.gtimg.cn/music/photo_new/T053M000000CV6M20QPH7U.jpg %}
-{% galleryGroup '球员图|国家队比赛' '包括友谊赛' '/gallery/international' https://y.gtimg.cn/music/photo_new/T053M0000033XgYd3HmxDE.jpg %}
-{% galleryGroup '球迷图|海报图' '包括比赛宣传图' '/gallery/poster' https://y.gtimg.cn/music/photo_new/T053M000004AYmQf2QMIkm.jpg %}
-</div>
